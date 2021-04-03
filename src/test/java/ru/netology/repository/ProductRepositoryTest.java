@@ -12,8 +12,8 @@ public class ProductRepositoryTest {
 
     private ProductRepository repository = new ProductRepository();
 
-    Product item1 = new Product(1, "Harry Potter", 800);
-    Product item2 = new Product(2, "Lord Of The Rings", 700);
+    Product item1 = new Product(1, "Winnie-the-Pooh", 800);
+    Product item2 = new Product(2, "Mocking Bird", 700);
     Product item3 = new Product(3, "Iphone", 90000);
     Product item4 = new Product(4, "Samsung", 80000);
 
